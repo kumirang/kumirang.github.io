@@ -1,3 +1,7 @@
 title: 금이랑 가야금
-description: 가야금하는 신영미입니다.
+description: 광명시 소하동/일직동 가야금 레슨합니다.
 google_analytics: UA-161951550-1
+url: kumirang.github.io
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
